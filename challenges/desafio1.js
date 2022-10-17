@@ -1,0 +1,2 @@
+db.getCollection('produtos')
+    .countDocuments({})
