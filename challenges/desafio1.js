@@ -1,2 +1,2 @@
-db.getCollection('produtos')
-    .countDocuments({})
+db.getCollection("produtos")
+    .countDocuments({});
